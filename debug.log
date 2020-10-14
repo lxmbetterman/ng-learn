@@ -1,0 +1,3 @@
+[1013/092344.059:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[1013/092344.273:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\johnxlai\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a4bec60c-b1b7-4aea-8bbe-9cc57e41e6d9: 系统找不到指定的路径。 (0x3)
+[1014/145523.751:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
